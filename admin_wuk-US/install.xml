@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension client="administrator" type="language" method="upgrade">
+	<name>Wukchumni (wuk-US)</name>
+	<tag>wuk-US</tag>
+	<version>6.0.1.1</version>
+	<creationDate>2026-01</creationDate>
+	<author>Uziel Almeida Oliveira</author>
+	<authorEmail>contato@pontomega.com.br</authorEmail>
+	<authorUrl>pontomega.com.br</authorUrl>
+	<copyright>(C) 2026 Open Source Matters, Inc.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>wuk-US administrator language - Wukchumni (Tule-Kaweah Yokuts)</description>
+	<files>
+		<folder>/</folder>
+		<filename file="meta">install.xml</filename>
+	</files>
+	<params />
+</extension>

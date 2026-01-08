@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metafile client="administrator">
+	<name>Wukchumni (wuk-US)</name>
+	<version>6.0.1.1</version>
+	<creationDate>2026-01</creationDate>
+	<author>Uziel Almeida Oliveira</author>
+	<authorEmail>contato@pontomega.com.br</authorEmail>
+	<authorUrl>pontomega.com.br</authorUrl>
+	<copyright>(C) 2026 Open Source Matters, Inc.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description><![CDATA[wuk-US administrator language - Wukchumni (Tule-Kaweah Yokuts)]]></description>
+	<metadata>
+		<name>Wukchumni</name>
+		<nativeName>Wukchumni</nativeName>
+		<tag>wuk-US</tag>
+		<rtl>0</rtl>
+		<locale>wuk_US.utf8, wuk_US.UTF-8, wuk_US, wuk, wukchumni</locale>
+		<firstDay>0</firstDay>
+		<weekEnd>0,6</weekEnd>
+		<calendar>gregorian</calendar>
+	</metadata>
+	<params />
+</metafile>

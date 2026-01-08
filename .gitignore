@@ -1,0 +1,15 @@
+# Ignorar arquivos temporários e de desenvolvimento
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ignorar arquivos de backup
+*~
+*.bak
+*.swp
+
+# Ignorar scripts de desenvolvimento local
+create-wukchumni-package.ps1

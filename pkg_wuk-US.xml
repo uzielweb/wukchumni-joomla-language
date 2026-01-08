@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="package" method="upgrade">
+    <name>Wukchumni Language Pack</name>
+    <packagename>wuk_US</packagename>
+    <version>6.0.1.1</version>
+    <creationDate>2026-01</creationDate>
+    <author>Uziel Almeida Oliveira</author>
+    <authorEmail>contato@pontomega.com.br</authorEmail>
+    <authorUrl>pontomega.com.br</authorUrl>
+    <copyright>(C) 2026 Open Source Matters, Inc.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <description>Wukchumni (wuk-US) Language Pack for Joomla! 6.x - Complete package (Site + Administrator). Native language of the Wukchumni people of California.</description>
+    <packager>Joomla! Community</packager>
+    <packagerurl>https://www.joomla.org</packagerurl>
+    
+    <files>
+        <file type="language" client="site" id="wuk-US">site_wuk-US</file>
+        <file type="language" client="administrator" id="wuk-US">admin_wuk-US</file>
+        <file type="language" client="api" id="wuk-US">api_wuk-US</file>
+    </files>
+    
+    <updateservers>
+        <server type="collection" priority="1" name="Wukchumni Language Pack">https://raw.githubusercontent.com/uzielweb/wukchumni-joomla-language/main/updates.xml</server>
+    </updateservers>
+</extension>
